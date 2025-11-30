@@ -1,0 +1,20 @@
+{
+  "name": "codebridge",
+  "version": "1.0.0",
+  "description": "Communication bridge between ChatGpt web user interface and Visual Studio Code editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petocjshtml/CodeBridge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petocjshtml/CodeBridge/issues"
+  },
+  "homepage": "https://github.com/petocjshtml/CodeBridge#readme"
+}
